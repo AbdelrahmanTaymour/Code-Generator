@@ -1,0 +1,6 @@
+E:\graphic\Me\Programming courses\GitHub Projects\Code Generator\CodeGenerator-DataAccess\bin\Debug\CodeGenerator-DataAccess.dll
+E:\graphic\Me\Programming courses\GitHub Projects\Code Generator\CodeGenerator-DataAccess\bin\Debug\CodeGenerator-DataAccess.pdb
+E:\graphic\Me\Programming courses\GitHub Projects\Code Generator\CodeGenerator-DataAccess\obj\Debug\CodeGenerator-DataAccess.csproj.AssemblyReference.cache
+E:\graphic\Me\Programming courses\GitHub Projects\Code Generator\CodeGenerator-DataAccess\obj\Debug\CodeGenerator-DataAccess.csproj.CoreCompileInputs.cache
+E:\graphic\Me\Programming courses\GitHub Projects\Code Generator\CodeGenerator-DataAccess\obj\Debug\CodeGenerator-DataAccess.dll
+E:\graphic\Me\Programming courses\GitHub Projects\Code Generator\CodeGenerator-DataAccess\obj\Debug\CodeGenerator-DataAccess.pdb
