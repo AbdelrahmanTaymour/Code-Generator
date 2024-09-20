@@ -72,7 +72,7 @@ namespace CodeGenerator_PresentationLayer
         }
         private void imgSettings_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Not implementing yet");
+            MessageBox.Show("Not implementing yet...");
         }
         private void txtPaths_Validating(object sender, CancelEventArgs e)
         {
